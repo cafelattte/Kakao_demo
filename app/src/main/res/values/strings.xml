@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Kakao_demo</string>
+    <string name="kakao_app_key">593e46c9b268d2ad6de590a9a293aae1</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="text_for_login_kakao_account">Log in with Kakao</string>
+
+    <string name="text_usermgmt">User Management</string>
+
+    <string name="text_login_fragment">Login with Fragment</string>
+    <string name="text_login_activity">Login with Activity</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="kakaotalk_profile_button">Get Talk Profile</string>
+    <string name="kakaotalk_country_label">country ISO</string>
+
+    <string name="usermgmg_signup_button">Signup</string>
+    <string name="usermgmg_me_button">Update scope</string>
+    <string name="usermgmg_update_profile_button">Update</string>
+
+    <string name="usermgmg_name">Write Your Name</string>
+    <string name="usermgmg_age">Write Your Age</string>
+
+    <string name="com_kakao_profile_email">Email</string>
+    <string name="com_kakao_profile_phone_number">Phone Number</string>
+    <string name="com_kakao_profile_nickname">Alias</string>
+    <string name="com_kakao_profile_age_range">Age range</string>
+    <string name="com_kakao_profile_birthday">Birthday</string>
+    <string name="com_kakao_profile_gender">Gender</string>
+    <string name="error_message_for_service_unavailable">Unstable network connection. \nPlease try again later.</string>
+
+    <string name="needs_account_email_scope">Needs email scope</string>
+    <string name="needs_phone_number_scope">Needs phone number scope</string>
+
+
+    <string name="naver_clientId">b1zw07bdkj</string>
+    <string name="naver_clientSecret">HniaC7u6nPit9601req3h6r1s9O2CIIJATFeINIj</string>
+</resources>
